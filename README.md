@@ -2,16 +2,16 @@
 This project provides a comprehensive analysis and visualization of socio-economic data across US states, including median household income, educational attainment, and health insurance coverage.
 ## Overview
 This project visualizes and analyzes US state-level data, including:
-** Median household income
-** Educational attainment (population with a bachelor's degree or higher)
-** Health insurance coverage rates
+* Median household income
+* Educational attainment (population with a bachelor's degree or higher)
+* Health insurance coverage rates
 Using geospatial data and Python libraries, the analysis provides insights into socio-economic disparities across states.
 
 ## Features
-** Geospatial Analysis: Leverages shapefiles to map data visually.
-** Categorical Insights: Categorizes states by population, income, and health insurance coverage.
-** Interactive Visualizations: Creates color-coded maps using matplotlib and geopandas.
-** Data Integration: Combines multiple datasets into a unified view for analysis.
+* Geospatial Analysis: Leverages shapefiles to map data visually.
+* Categorical Insights: Categorizes states by population, income, and health insurance coverage.
+* Interactive Visualizations: Creates color-coded maps using matplotlib and geopandas.
+* Data Integration: Combines multiple datasets into a unified view for analysis.
 
 ## Usage
 Steps to Run
