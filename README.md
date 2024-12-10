@@ -5,6 +5,7 @@ This project visualizes and analyzes US state-level data, including:
 * Median household income
 * Educational attainment (population with a bachelor's degree or higher)
 * Health insurance coverage rates
+
 Using geospatial data and Python libraries, the analysis provides insights into socio-economic disparities across states.
 
 ## Features
