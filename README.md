@@ -8,6 +8,13 @@ This project visualizes and analyzes US state-level data, including:
 
 Using geospatial data and Python libraries, the analysis provides insights into socio-economic disparities across states.
 
+## Python libraries
+* GeoPandas: For geospatial data processing and mapping.
+* Pandas: For data manipulation and integration.
+* Seaborn: For statistical and visual representation.
+* Matplotlib: For creating detailed plots.
+* Scikit-learn: For applying K-Means clustering and other statistical methods.
+
 ## Features
 * Geospatial Analysis: Leverages shapefiles to map data visually.
 * Categorical Insights: Categorizes states by population, income, and health insurance coverage.
